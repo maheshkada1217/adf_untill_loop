@@ -1,0 +1,9 @@
+{
+	"name": "amulyadevadf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5d1b3141-1fb2-4a46-aa4b-7caa07277c6c",
+		"tenantId": "bb380d1e-78a9-4143-a4c3-8139130ee33d"
+	}
+}

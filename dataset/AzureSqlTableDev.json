@@ -1,0 +1,17 @@
+{
+	"name": "AzureSqlTableDev",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "AzureSqlDatabaseDevLS",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "AzureSqlTable",
+		"schema": [],
+		"typeProperties": {
+			"schema": "dbo",
+			"table": "student"
+		}
+	},
+	"type": "Microsoft.DataFactory/factories/datasets"
+}
